@@ -1,8 +1,8 @@
 a = game.PlaceId
 if a == 3237168 then
-loadstring(game:HttpGet('http://manssapdf.lnkiy.in/One-Piece-Legendary'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/toaie0112/Turtle-Hub/main/OPL%20BANANA'))()
 elseif a == 8534845015 then
-loadstring(game:HttpGet('http://lnkiy.in/Sakura-Stand'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/toaie0112/Turtle-Hub/main/Sakura%20Stand%20Banana'))()
 else
 game.Players.LocalPlayer:kick("\nPaimon : not support game\nrejoin in 5 seconds")
 game:GetService("TeleportService"):Teleport(game.PlaceId)
